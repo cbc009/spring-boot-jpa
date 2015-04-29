@@ -8,7 +8,6 @@ Spring Boot 的出现极大提高了生产效率, 尤其是做一些规模不太
 
 网上很多spring boot 示例很少说如何将基于 spring boot 开发的项目如何部署到 tomcat，很高兴告诉你，这个 DEMO 是可以直接打成 WAR 包发布到 tomcat 容器的。
 
----
 
 温馨提示： 
 
