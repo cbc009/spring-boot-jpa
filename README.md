@@ -11,5 +11,7 @@ Spring Boot 的出现极大提高了生产效率, 尤其是做一些规模不太
 ---
 
 温馨提示： 
-1、装一个 lombok 插件可以省去你写 getter\setter 的时间，在 IDE 里看 Entity class 的时候至少是正常的
-2、Spring Jpa 虽然熟悉了会极大提高生产效率，但有时候用起来不是那么容易，最好是通读一下手册。我对比了其他几个 JPA 的实现方案，比如 Ebean、ActiveJpa，有兴趣的可以试试，不过我更倾向于用户基数大的开源项目，文档多，遇到问题比较容易解决，所以最终还是选择了 Spring Jpa。
+
+* 装一个 lombok 插件可以省去你写 getter\setter 的时间，在 IDE 里看 Entity class 的时候至少是正常的
+
+* Spring Jpa 虽然熟悉了会极大提高生产效率，但有时候用起来不是那么容易，最好是通读一下手册。我对比了其他几个 JPA 的实现方案，比如 Ebean、ActiveJpa，有兴趣的可以试试，不过我更倾向于用户基数大的开源项目，文档多，遇到问题比较容易解决，所以最终还是选择了 Spring Jpa。
